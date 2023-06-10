@@ -1,7 +1,7 @@
 
 
 
-<img src="https://i.imgur.com/njCNbi8.png">
+<img src="https://i.imgur.com/TMEjF1k.png">
 <a href="https://www.linkedin.com/in/analiz-anaya/" target="_blank">
 <img src="https://img.shields.io/badge/-analizanaya-8D8AB0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/analiz-anaya/">
 <a href="https://www.behance.net/AnalizAnaya" target="_blank">
