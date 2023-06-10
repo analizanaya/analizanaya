@@ -18,7 +18,8 @@
 - 👩‍💻 Carreras TI: UX/UI Designer y Frond End Developer
 - 🎥 Licenciada en Ciencias de la Comunicación (C. Audiovisual)
 - ✒ Técnica en Diseño Gráfico
-- 🐾 Amo a los animales
+- ✈ Disponibilidad de viajar/ Cambio de residencia
+- 🐾 Pet lover
 <br>
 
 ## Mis proyectos favoritos
